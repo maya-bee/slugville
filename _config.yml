@@ -5,7 +5,7 @@ description: Slugcat's awesome blog about various things (primarily the Binding 
 
 permalink: /:slug
 
-favicon: ./favicon.ico
+favicon: "./assets/images/favicon.ico"
 
 theme_config:
   appearance: "dark"
@@ -20,15 +20,12 @@ theme_config:
   show_projects: true
   show_blog: true
   show_old_projects: false
-  show:misc:list: true
+  show_misc_list: true
   show_reading_time: true
   show_tags: false
   #options for home page
   home:
-    title_projects: "TBoI Mods"
+    title_projects: TBoI Mods
     title_blog: Blog Posts
 
 highlighter: rouge
-
-plugins:
-  - jekyll-feed
