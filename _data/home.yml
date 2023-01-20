@@ -1,0 +1,27 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+misc_entries:
+  - title: blog posts
+    post_list: true
+    url: false
+
+project_entries:
+  - title: Epiphany
+    desc: A mod that adds c-side characters to the game. 6/17 of the characters are complete as of Wave 4.
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2635111236
+
+  - title: Hotter Mines
+    desc: Adds a heat wave shader when in rooms with lava. This is a very simple mod, but I'm proud of it.
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2914540337
+
+footer_entries:
+  - title: steam
+    url: https://steamcommunity.com/id/maya70i/
+
+  - title: github
+    url: https://github.com/maya-bee
