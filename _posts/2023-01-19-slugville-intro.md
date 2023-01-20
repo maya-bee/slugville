@@ -1,5 +1,5 @@
 ---
-title: "Slugville - What is Slugville?"
+title: "What is Slugville?"
 date: 2023-01-19
 layout: post
 tags: [misc, informative]
