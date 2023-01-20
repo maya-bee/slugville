@@ -2,3 +2,33 @@ remote_theme: abhinavs/moonwalk
 title: Slugville
 author: slugcat77
 description: Slugcat's awesome blog about various things (primarily the Binding of Isaac)
+
+permalink: /:slug
+
+favicon: ./favicon.ico
+
+theme_config:
+  appearance: "dark"
+  appearance_toggle: true
+  back_home_text: "Home..."
+  date_format: "%Y-%m-%d"
+  show_description: true
+  show_navbar: true
+  show_footer: true
+  show_copyright: true
+  # following keys are used to create home layout
+  show_projects: true
+  show_blog: true
+  show_old_projects: false
+  show:misc:list: true
+  show_reading_time: true
+  show_tags: false
+  #options for home page
+  home:
+    title_projects: "TBoI Mods"
+    title_blog: Blog Posts
+
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
