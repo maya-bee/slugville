@@ -1,5 +1,5 @@
 ---
-title: Slugville - Home
+title: Home
 layout: home
 ---
 
