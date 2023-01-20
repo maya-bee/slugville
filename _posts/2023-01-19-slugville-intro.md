@@ -15,7 +15,7 @@ Eventually you meet an inviting, wooden bench. You've been walking for a while n
 
 You wish you could run away. You wish you could leave your old life and live happily in a small cabin in the woods. You don't want to be just another cog in the machine, but it's inescapable. You wish you could just make peace with how your life is, but it feels like you could never achieve your aspirations.
 
-As the sun rises, you know it's time to go. With a deep sigh, you get up and continue walking along the winding trail, with no end in sight...
+As the sun rises, you know it's time to go. With a deep sigh, you get up and continue walking along the winding trail, with no end in sight.
 
 Anyway, Slugville is my blog where I post meaningless nonsense about video games.
 

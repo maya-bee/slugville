@@ -5,15 +5,15 @@ description: Slugcat's awesome blog about various things (primarily the Binding 
 
 permalink: /:slug
 
-favicon: "./assets/images/favicon.ico"
+favicon: "./logo.png"
 
 theme_config:
   appearance: "dark"
   appearance_toggle: true
-  back_home_text: "Home..."
+  back_home_text: "home..."
   date_format: "%Y-%m-%d"
   show_description: true
-  show_navbar: true
+  show_navbar: false
   show_footer: true
   show_copyright: true
   # following keys are used to create home layout
