@@ -39,4 +39,6 @@ To me, motivation is a broken promise. So, to answer my question from the beginn
 
 ## Closing remarks
 
-I'm not sure why I wrote this. I guess I just felt motivated to do it.
+I'm not sure why I wrote this. I'm embarrassed by it, really. Maybe that's because it reads more like an essay for a high school final than a blog post.
+
+:)
