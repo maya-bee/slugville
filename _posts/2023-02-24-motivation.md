@@ -36,3 +36,7 @@ Motivation is not necessary. I don't need it, though it sure as hell takes the e
 For a lot of people, motivation is the guiding light in the dark. But for me, for a person who is forever burnt out and exhausted, it's a distraction from what I need to do. It's an unreliable force that never comes around, something that will abandon you when you most need it.
 
 To me, motivation is a broken promise. So, to answer my question from the beginning, it's not motivation that keeps me coming back to my project. It's my own passion.
+
+## Closing remarks
+
+I'm not sure why I wrote this. I guess I just felt motivated to do it.
